@@ -30,6 +30,8 @@ The image below plots one `Cargo` track from the extract. The dashed rectangle i
 
 The plotted feature is `OBJECTID 50958` (`MMSI 563156300`). The full source track is shown within the plotted view; the line was not clipped in the CSV.
 
+To reproduce this individual record on another computer, use [`example_trace.csv`](../data/interim/example_trace.csv) and its [`example_trace_metadata.json`](../data/interim/example_trace_metadata.json) sidecar. The CSV preserves the track as WKT in EPSG:4269 and includes the map extent. No coastline layer was present in the AIS GeoPackage or project workspace, so the example figure contains no coastline geometry.
+
 ## Layer fields
 
 | Field | Source type | Meaning / use |

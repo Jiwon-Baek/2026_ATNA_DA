@@ -1,3 +1,12 @@
+# 26. 10. 15. Jiwon's 1st Request
+
+- Cargo 와 Tanker 말고는 이 데이터 상에서 어떤 선종들이 보여지는지 설명해줘.
+- 왜 우리가 Cargo 와 Tanker에 집중해야하는지에대한 설명이 필요해. 다른 선종 데이터들은 어느정도 있는지 pie graph 로 나타내고싶은데, 데이터에서 나타나는 다른 선종들의 비율도 분석해줘.
+- 왜 우리가 Norfolk/Hampton Roads 항만에 초점을 맞추어야하는지에 대한 분석이 빠져있어. 이 항만들의 중요성 및 개요(연간 물동량 등) 을 조사해서, Why these ports? 라는 슬라이드를 만들 수 있을만한 정보를 수집해줘. 조사한 내용은 "C:\SNUPEL\2026_ATNA_DA\docs\1st_Proposal_manuscript_codex_v2.md" 에도 포함시켜줘. 
+- Grid 차이에 따라서 어떤 특징들이 있는지 지금 슬라이드만으로는 직관적으로 명확하게 이해되지는 않아. 그래서 Grid 가 250m일때는 해상도가 높지만 연산량이 많이 들겠지? 반대로 grid 가 1km일 때에는 해상도가 낮아서 부정확하겠지? 그런 특징들을 비교하는 슬라이드를 하나 추가하고싶어. "Why Resolution Matters?" 라는 슬라이드 하나를 더 추가하고싶어. 이 내용도 "C:\SNUPEL\2026_ATNA_DA\docs\1st_Proposal_manuscript_codex_v2.md"  에 포함시켜줘.
+- "C:\SNUPEL\2026_ATNA_DA\docs\1st_Proposal_manuscript_codex_v2.md" 에는 기존 version 1 대비 추가되는 슬라이드만 기록해줘.
+
+
 # 26. 10. 15. Codex's suggestion
 
 ## 연구 수행 계획
