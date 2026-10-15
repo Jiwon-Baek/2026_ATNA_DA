@@ -1,0 +1,24 @@
+{
+  "run": {
+    "run_mode": "analysis",
+    "output_path": "outputs"
+  },
+  "data": {
+    "input_path": "data/raw/AISVesselTracks2024.zip",
+    "region_boundary_path": "",
+    "start_year": 2024,
+    "start_month": 1,
+    "end_year": 2024,
+    "end_month": 12,
+    "ports": ["Norfolk", "Hampton Roads"],
+    "ship_type": ["Bulk_Carrier", "Tanker"],
+    "analysis_crs": "EPSG:26918"
+  },
+  "grid_analysis": {
+    "grid_sizes_m": [250, 500, 1000],
+    "primary_grid_size_m": 500,
+    "top_percentages": [10, 20],
+    "primary_top_percentage": 10,
+    "ranking_metric": "unique_mmsi"
+  }
+}

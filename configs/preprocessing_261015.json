@@ -1,0 +1,14 @@
+{
+  "run": {
+    "run_mode": "preprocessing",
+	"output_path": ""
+  },
+  "data":{
+	  "start_year":2024,
+	  "start_month":1,
+	  "end_year":2024,
+	  "end_month":12,
+	  "ports":["Norfolk","Hampton Roads"],
+	  "ship_type":["Bulk_Carrier","Tanker"]
+  }  
+}
